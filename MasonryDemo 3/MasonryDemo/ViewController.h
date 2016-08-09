@@ -1,11 +1,10 @@
 //
-//  ViewController.h
+//  ViewController.m
 //  MasonryDemo
 //
-//  Created by 赵德玉 on 15/12/6.
-//  Copyright © 2015年 金金. All rights reserved.
+//  Created by Karen on 15/12/6.
+//  Copyright © 2015年 佑佑. All rights reserved.
 //
-
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController

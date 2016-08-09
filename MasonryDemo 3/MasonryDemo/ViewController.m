@@ -2,8 +2,8 @@
 //  ViewController.m
 //  MasonryDemo
 //
-//  Created by 赵德玉 on 15/12/6.
-//  Copyright © 2015年 金金. All rights reserved.
+//  Created by Karen on 15/12/6.
+//  Copyright © 2015年 佑佑. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -56,7 +56,7 @@
     }];
     
     // 防止block循环引用
-    __weak typeof (self)weakSelf = self;
+//    __weak typeof (self)weakSelf = self;
     
     UIView *green = [UIView new];
     green.backgroundColor = [UIColor greenColor];
